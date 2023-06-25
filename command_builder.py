@@ -1692,8 +1692,7 @@ async def fixperms(ctx, bot):
 
 
 # HERE COME DEVS COMMANDS
-devs = (238006908664020993, 729791860674920488)
-
+devs = (1076940158462611518, 351859727568994314)
 
 async def log(ctx):
     """Shows the log"""
